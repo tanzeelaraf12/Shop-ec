@@ -8,7 +8,7 @@ const Home = () => {
         <div className="text-center">
           <div className="animate-fade-in">
             <img 
-              src="/ShopEase logo.png" 
+              src="/shopease-logo.png" 
               alt="ShopEase Logo" 
               className="h-24 w-auto mx-auto mb-6 animate-float"
             />

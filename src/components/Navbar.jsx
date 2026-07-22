@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
             <img 
-              src="/ShopEase logo.png" 
+              src="/shopease-logo.png" 
               alt="ShopEase Logo" 
               className="h-10 w-auto"
             />
